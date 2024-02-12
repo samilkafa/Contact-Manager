@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D&BNdWnHI",
+      "name": "Gordon Freeman",
+      "photo": "https://halflifetr.wdfiles.com/local--files/gordon-freeman/Gordon_Freeman_Portrait.png",
+      "mobile": "+1 (973)-762-4539",
+      "email": "gordonfreeman@bm.com",
+      "company": "Black Mesa",
+      "title": "Research Associate",
+      "groupId": "1"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Isaac Kleiner",
+      "photo": "https://combineoverwiki.net/images/thumb/5/57/Kleiner_EP2_Infobox.png/250px-Kleiner_EP2_Infobox.png",
+      "mobile": "+1 (888)-576-2205",
+      "email": "isaackleiner@bm.com",
+      "company": "Black Mesa",
+      "title": "Senior Research Scientist",
+      "groupId": "1"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Eli Vance",
+      "photo": "https://assets.mycast.io/characters/eli-vance-5578-normal.jpg?1563892097",
+      "mobile": "+1 (650)-941-2212",
+      "email": "elivance@bm.com",
+      "company": "Black Mesa",
+      "title": "Senior Research Scientist",
+      "groupId": "1"
+    },
+    {
+      "id": "E4FXCVA",
+      "name": "Wallace Breen",
+      "photo": "https://static.wikia.nocookie.net/greatmultiverse/images/2/2e/Breen_upset.jpg/revision/latest?cb=20140904121830",
+      "mobile": "+1 (225) 754-5714",
+      "email": "wallacebreen@bm.com",
+      "company": "Black Mesa",
+      "title": "Administrator",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
